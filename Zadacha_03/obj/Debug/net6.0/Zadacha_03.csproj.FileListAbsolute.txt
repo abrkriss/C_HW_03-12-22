@@ -1,0 +1,15 @@
+C:\Users\Кристина\OneDrive\Рабочий стол\Homework_C#\C_Homework_03.12.22\Zadacha_03\bin\Debug\net6.0\Zadacha_03.exe
+C:\Users\Кристина\OneDrive\Рабочий стол\Homework_C#\C_Homework_03.12.22\Zadacha_03\bin\Debug\net6.0\Zadacha_03.deps.json
+C:\Users\Кристина\OneDrive\Рабочий стол\Homework_C#\C_Homework_03.12.22\Zadacha_03\bin\Debug\net6.0\Zadacha_03.runtimeconfig.json
+C:\Users\Кристина\OneDrive\Рабочий стол\Homework_C#\C_Homework_03.12.22\Zadacha_03\bin\Debug\net6.0\Zadacha_03.dll
+C:\Users\Кристина\OneDrive\Рабочий стол\Homework_C#\C_Homework_03.12.22\Zadacha_03\bin\Debug\net6.0\Zadacha_03.pdb
+C:\Users\Кристина\OneDrive\Рабочий стол\Homework_C#\C_Homework_03.12.22\Zadacha_03\obj\Debug\net6.0\Zadacha_03.csproj.AssemblyReference.cache
+C:\Users\Кристина\OneDrive\Рабочий стол\Homework_C#\C_Homework_03.12.22\Zadacha_03\obj\Debug\net6.0\Zadacha_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кристина\OneDrive\Рабочий стол\Homework_C#\C_Homework_03.12.22\Zadacha_03\obj\Debug\net6.0\Zadacha_03.AssemblyInfoInputs.cache
+C:\Users\Кристина\OneDrive\Рабочий стол\Homework_C#\C_Homework_03.12.22\Zadacha_03\obj\Debug\net6.0\Zadacha_03.AssemblyInfo.cs
+C:\Users\Кристина\OneDrive\Рабочий стол\Homework_C#\C_Homework_03.12.22\Zadacha_03\obj\Debug\net6.0\Zadacha_03.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\OneDrive\Рабочий стол\Homework_C#\C_Homework_03.12.22\Zadacha_03\obj\Debug\net6.0\Zadacha_03.dll
+C:\Users\Кристина\OneDrive\Рабочий стол\Homework_C#\C_Homework_03.12.22\Zadacha_03\obj\Debug\net6.0\refint\Zadacha_03.dll
+C:\Users\Кристина\OneDrive\Рабочий стол\Homework_C#\C_Homework_03.12.22\Zadacha_03\obj\Debug\net6.0\Zadacha_03.pdb
+C:\Users\Кристина\OneDrive\Рабочий стол\Homework_C#\C_Homework_03.12.22\Zadacha_03\obj\Debug\net6.0\Zadacha_03.genruntimeconfig.cache
+C:\Users\Кристина\OneDrive\Рабочий стол\Homework_C#\C_Homework_03.12.22\Zadacha_03\obj\Debug\net6.0\ref\Zadacha_03.dll
